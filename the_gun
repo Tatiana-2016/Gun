@@ -113,7 +113,6 @@ def click_event_handler(event):
     shells_on_fly.append(shell)
 
 
-
 if __name__ == "__main__":
     init_main_window()
     init_game()
